@@ -13,6 +13,3 @@ python agenda.py
 
 ## 👤 Créditos do Aluno
 
-**Nome:** Nicolas Cabral Porcel 
-**Turma:** QUA-N-G00300/2025  
-**Professor(a):** Marcos
